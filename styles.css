@@ -1,1 +1,17 @@
 /* your code */
+   table {
+        border: 5px solid black;
+        width: 800px;
+        border-radius: 10px;
+    }
+    table thead tr{
+        background-color: rgb(36, 94, 180);
+        color: white;
+        font-weight: bold;
+        font-family: Arial, Helvetica, sans-serif;
+        border: none;
+    }
+
+    table thead tr th {
+        padding: 4px;
+    }
